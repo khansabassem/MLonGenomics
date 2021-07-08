@@ -20,5 +20,6 @@ b.	Optionally delete intermediary files resulting from the three preprocessing p
 # Directories:
 There are three main directories:
 1.	BoW: contains notebooks  & scripts of the first ML approach
-2.	LSTM: contains notebooks of the LSTM & LSTM on KMERS approach
-3.	Data: contains the raw sequences data.
+2.	LSTM: contains notebooks of the LSTM approach
+3.	LSTM on KMERS: contains notebooks of the LSTM approach
+4.	Data: contains the raw sequences data.
