@@ -9,3 +9,16 @@ Genomic sequence classification with two approaches:
 # Data: 
 The data is artifitially generated, it consists of 60k DNA sequences, with length between 4999 and 14999 characters. Characters are {A,C,G,T}. 
 The same techniques can be applied to any sort of genomic sequences given you have a sufficient computation power.
+
+
+# Three types of scripts:
+1.	Jupiter notebooks ipython format.
+2.	Python scripts (for early, parallelized kmer counting methods developed using libraries that are incompatible with Jupiter notebooks).
+3.	Bash scripts used to
+a.	Run KMC kmer counter.
+b.	Optionally delete intermediary files resulting from the three preprocessing phases. 
+# Directories:
+There are three main directories:
+1.	BoW: contains notebooks  & scripts of the first ML approach
+2.	LSTM: contains notebooks of the LSTM & LSTM on KMERS approach
+3.	Data: contains the raw sequences data.
