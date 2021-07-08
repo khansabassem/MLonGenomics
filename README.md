@@ -18,7 +18,7 @@ The same techniques can be applied to any sort of genomic sequences given you ha
 a.	Run KMC kmer counter.
 b.	Optionally delete intermediary files resulting from the three preprocessing phases. 
 # Directories:
-There are three main directories:
+There are Four main directories:
 1.	BoW: contains notebooks  & scripts of the first ML approach
 2.	LSTM: contains notebooks of the LSTM approach
 3.	LSTM on KMERS: contains notebooks of the LSTM approach
