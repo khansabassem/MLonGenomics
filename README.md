@@ -1,6 +1,6 @@
 # MLonGenomics
 Exploratory research, in the context of Masters graduation project.  University of Applied Sciences of Western Switzerland (HES-SO MSE). Masters of Science in Engineering program. Complex Information Systems. 
-#Masters Thesis
+# Masters Thesis
 Thesis can be found at the top level directory of this repository.
 [Link to Masters Thesis](https://github.com/khansabassem/MLonGenomics/blob/main/Bassem%20El%20Khansaa_MSE_TM_SP21_00382d09a2fcb6be2167243348dd0bf5-1.pdf)
 # Techniques
